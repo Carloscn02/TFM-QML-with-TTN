@@ -1,5 +1,4 @@
 # TFM-QML-with-TTN
-# TFM-QML-with-TTN
 
 # Quantum MNIST Classifier
 
